@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "만세의 공부노트"
+title                    : "만세의 블로그"
 title_separator          : "|"
-subtitle                 : "좌우명" # site tagline that appears below site title in masthead
+subtitle                 : "무엇을 올리면 좋을까나" # site tagline that appears below site title in masthead
 name                     : "Manse"
-description              : "나를 한 문장으로 설명"
+description              : "나는야 만세"
 url                      : "https://helen9259.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,11 +108,11 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "깃헙 블로그 어려워요."
   location         : "Seoul, Korea"
-  email            :
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:haelin0511@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: ""
